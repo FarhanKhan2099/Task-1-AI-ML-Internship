@@ -30,7 +30,3 @@ The dataset comprises measurements for three Iris species (**Setosa, Versicolor,
 
 * Open the `.ipynb` file in a Jupyter environment.
 * Execute cells sequentially to replicate the analysis.
-
----
-
-**Would you like me to help you draft a specific "Machine Learning Next Steps" section based on these findings?**
