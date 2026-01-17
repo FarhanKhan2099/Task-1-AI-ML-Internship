@@ -1,5 +1,3 @@
-# Task-1-AI-ML-Internship
-
 ## **Task 1: Iris Dataset Exploratory Data Analysis**
 
 ### **Objective**
